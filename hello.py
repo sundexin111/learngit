@@ -1,2 +1,3 @@
 hello.
+exit=1.
 
